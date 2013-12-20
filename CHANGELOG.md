@@ -1,5 +1,12 @@
 # Feedzirra Changelog
 
+## 0.7.0
+
+* General
+  * README update for callback arity [[#202][]]
+
+[#202]: https://github.com/pauldix/feedzirra/pull/202
+
 ## 0.6.0
 
 * General
